@@ -1,0 +1,13 @@
+{
+  "name": "mental-health-wellness",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@netlify/database": "^1.0.0",
+    "drizzle-orm": "^0.44.0-f1b89af"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.0-f1b89af"
+  }
+}
